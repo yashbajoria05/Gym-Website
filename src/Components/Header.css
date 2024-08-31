@@ -1,0 +1,17 @@
+/* src/components/Header.css */
+.Header {
+  background-color: #333;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+}
+
+.Header nav a {
+  color: #fff;
+  margin: 0 1rem;
+  text-decoration: none;
+}
+
+.Header nav a:hover {
+  text-decoration: underline;
+}
