@@ -1,4 +1,3 @@
-// src/components/Services.js
 import React from "react";
 
 function Services() {
